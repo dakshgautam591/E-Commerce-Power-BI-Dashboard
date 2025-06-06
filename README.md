@@ -30,12 +30,9 @@ This project features an interactive Power BI dashboard designed to analyze and 
 - `E-Commerce-Dashboard.pbix` – The main Power BI report file
 - `E Commerce Power BI Dashboard.png` – Static preview image of the dashboard
 
-## 📥 How to Use
+## 📥 Screenshots/Demo
 
-1. Clone or download the repository.
-2. Open `E-Commerce-Dashboard.pbix` using Power BI Desktop.
-3. Explore visualizations and tweak filters as needed.
-
+https://github.com/dakshgautam591/E-Commerce-Power-BI-Dashboard/blob/main/E%20Commerce%20Power%20BI%20Dashboard.png
 
 
 
