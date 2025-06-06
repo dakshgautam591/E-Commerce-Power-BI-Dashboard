@@ -32,7 +32,7 @@ This project features an interactive Power BI dashboard designed to analyze and 
 
 ## 📥 Screenshots/Demo
 
-https://github.com/dakshgautam591/E-Commerce-Power-BI-Dashboard/blob/main/E%20Commerce%20Power%20BI%20Dashboard.png
+Snapshot E Commerce Power BI Dashboard.png
 
 
 
